@@ -1,0 +1,15 @@
+# Large observational data and generated products
+data/
+*.fits
+*.fits.gz
+
+# Python and Jupyter
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Local environments and IDE
+.venv/
+.idea/
+.DS_Store
